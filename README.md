@@ -59,6 +59,10 @@
 - Install the GRUB boot loader to the master boot record: `<Yes>`
 - Installation Complete: _Remove USB drive w/Ubuntu installer then_ `<Continue>`
 
+=========
+What follows is not complete yet.
+=========
+
 ##Install Network Manager
 
 - Mount thumb drive with local repo
