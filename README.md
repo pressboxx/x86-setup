@@ -49,10 +49,10 @@
 - Configuring Apt: `<Cancel>`
 - How do you want to manage upgrades on this system? `No automatic upgrades`
 - Choose Software to install:
-	- [*] Manual package selection
-	- [*] Samba file server
-	- [*] Standard system utilities
-	- [*] OpenSSH server
+	- `[*] Manual package selection`
+	- `[*] Samba file server`
+	- `[*] Standard system utilities`
+	- `[*] OpenSSH server`
 - _Wait for a really long time..._	
 
 #### Booting and Wrapup
